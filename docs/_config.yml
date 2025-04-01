@@ -1,0 +1,17 @@
+title: P@C - Revolutionizing AI
+description: Cutting-edge AI solutions by Praveen's Artificially Intelligent Companies
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+github:
+  is_project_page: true
+  repository_url: https://github.com/Yaswanthsai888/Praveens-C
+
+# Exclude files from build
+exclude:
+  - README.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
