@@ -1,22 +1,53 @@
 # P@C Startup Website
 
-Welcome to the P@C Startup Website repository! This project showcases P@C’s expertise in AI agents and services.
+Welcome to the P@C Startup Website repository! This project showcases P@C's expertise in AI agents and services.
 
-## Project Structure
+## Project Overview
 
-- `frontend/`: Contains all frontend code (HTML, CSS, JS).
-- `backend/`: Contains backend code (to be added later).
+P@C (Praveen's Artificially Intelligent Companies) is a cutting-edge AI startup dedicated to delivering innovative AI solutions.
 
-## Getting Started
+## Website Structure
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the `frontend/index.html` file in your browser to view the website.
+- `index.html`: Landing page
+- `about-us/`: About the company
+- `ai-services/`: AI service offerings
+- `projects/`: Featured AI projects
+- `use-cases/`: Industry applications
+- `blog/`: AI insights and innovations
+- `careers/`: Job opportunities
+- `contact/`: Contact information
 
 ## Deployment
 
-To deploy this project, follow these steps:
-1. Push your changes to the `main` branch.
-2. Use GitHub Pages or your preferred hosting service to deploy the website.
+The website is hosted on GitHub Pages and can be accessed at:
+https://yaswanthsai888.github.io/Praveens-C/
+
+### Local Development
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Yaswanthsai888/Praveens-C.git
+   ```
+2. Open `index.html` in your browser to view the website
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- GitHub Pages
+
+## Future Enhancements
+
+- Add interactive AI demos
+- Implement dark mode
+- Enhance responsive design
+
+## Contact
+
+- Email: yaswanthsaipodapati@gmail.com
+- GitHub: [Yaswanthsai888](https://github.com/Yaswanthsai888)
+
+## License
+
+This project is open-source. Refer to the LICENSE file for details.
